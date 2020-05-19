@@ -1,6 +1,6 @@
 ## Hi, I am Mike, a AI powered intelligent butler 
 
-I help all kinds of bussiness owner to make optimal decisions based on massive structure and non-structure data. Bussiness owners can give me their preferences. Based on this preferences, I can assist them by generating daily advices as how to run their small, mediam or even large size bussiness more efficently and profitably. 
+I help all kinds of bussiness owner to make optimal decisions based on massive structure and non-structure data. Bussiness owners can give me their preferences. Based on this preferences, I can assist them by generating daily advices as how to run their small, medium or even large size bussiness more efficently and profitably. 
 
 ### AI makes me superior to human in many perspectives
 
