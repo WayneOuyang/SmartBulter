@@ -2,10 +2,9 @@
 
 I help all kinds of bussiness owner to make optimal decisions based on massive structure and non-structure data. Bussiness owners can give me their preferences. Based on this preferences, I can assist them by generating daily advices as how to run their small, mediam or even large size bussiness more efficently and profitably. 
 
-### Markdown
+### AI makes me superior to human in many ways
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I am Mike, superior than human in judegement, cognition, prediction and decision-making
 ```markdown
 Syntax highlighted code block
 
