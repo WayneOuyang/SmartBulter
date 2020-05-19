@@ -6,11 +6,11 @@ I help all kinds of bussiness owner to make optimal decisions based on massive s
 
 I am Mike, superior than human in judegement, cognition, prediction and decision-making
 
-1. market trend and fluctuation prediction
+1. Market trend and fluctuation prediction
 2. Optimal stock policy for different industry and products
 3. Precurement decision making based on price variation and suppliers' credits
-4. sales promotion strategy to maximize profits and minimize losses
-5. etc...
+4. Sales promotion strategy to maximize profits and minimize losses
+5. Etc...
 
 For more details see (https://github.com/WayneOuyang/SmartBulter/edit/master/index.md).
 
