@@ -1,8 +1,6 @@
-## Hi, I am Mike, a AI powered butler 
+## Hi, I am Mike, a AI powered intelligent butler 
 
-You can use the [editor on GitHub](https://github.com/WayneOuyang/SmartBulter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I help all kinds of bussiness owner to make optimal decisions based on massive structure and non-structure data. Bussiness owners can give me their preferences. Based on this preferences, I can assist them by generating daily advices as how to run their small, mediam or even large size bussiness more efficently and profitably. 
 
 ### Markdown
 
