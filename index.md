@@ -16,4 +16,4 @@ For more details see (https://github.com/WayneOuyang/SmartBulter/edit/master/ind
 
 ### Support or Contact
 
-Interested in me? contact +1 601-675-2086 and I will help your bussiness our as the best as I can.
+Interested in me? contact +1 601-675-2086 and I will help your bussiness out as the best as I can.
